@@ -2,45 +2,16 @@ body{
   background-color: gainsboro;
 }
 
-#Juego {
-	height: 30%;
-    width: 100%;
-}
 
-#Mensajes {
-	height: 30%;
-    width: 30%;
-}
-.td {
-	width: 40px;
-	height: 40px;
-	border: black 2px solid;
-}
-
-#table {
-    border-collapse:separate;
-
-}
-
-#MyTable {
-	
-	border: black 2px solid;
-	margin: 5px;
- 	padding: 5px;
-
-}
 
 p {
-	font-size: 30px;
+	font-size: 20px;
 }
 
-#Opciones {
-		
-	margin-left: 40%;
-	
+img {
+	width: 530px;
+	height: 330px;
 }
-
-
 input {
 	border: 0px;
 	background-color: rgba(0, 0, 0, 0.12);
